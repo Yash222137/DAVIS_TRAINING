@@ -1,0 +1,2 @@
+to throw exception manually 
+raise Exception Class("meg") 
